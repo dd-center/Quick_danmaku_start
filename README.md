@@ -5,7 +5,7 @@
 
 1. 下载repo
 ```
-git clone https://github.com/pren1/DD_real_time_radar.git
+git clone https://github.com/dd-center/Quick_danmaku_start.git
 ```
 2. 到项目根目录下，安装相关包
 ```
